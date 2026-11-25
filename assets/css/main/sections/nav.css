@@ -1,0 +1,605 @@
+ @media (min-width: 578px) {
+     .nav-zin {
+         position: sticky;
+         top: 0;
+         background: #fff;
+         z-index: 111111111111;
+         padding-bottom: 10px;
+     }
+
+     .actions {
+         display: none;
+         align-items: center;
+         gap: 16px;
+         margin-right: auto;
+         flex-shrink: 0;
+     }
+
+     .login {
+         display: none;
+         align-items: center;
+         gap: 8px;
+         height: 44px;
+         padding: 0 14px;
+         border: 1px solid #e0e0e0;
+         border-radius: 10px;
+         font-size: 14px;
+         color: #3f4064;
+         cursor: pointer;
+         white-space: nowrap;
+     }
+
+     .shopping-box {
+         display: none;
+         align-items: center;
+         cursor: pointer;
+     }
+
+     .menu-text {
+         display: none;
+         align-items: center;
+         gap: 22px;
+         padding: 12px 24px 0;
+         direction: rtl;
+     }
+
+     .menu {
+         display: none;
+         align-items: center;
+         gap: 6px;
+         font-size: 16px;
+         color: #3f4064;
+         text-decoration: none;
+         cursor: pointer;
+         white-space: nowrap;
+     }
+
+     .m-text1 {
+        display: none;
+         font-weight: 700;
+         color: #0c0c0c;
+     }
+
+     .menu:hover {
+        display: none;
+         color: #ef394e;
+     }
+
+     .nav {
+         display: flex;
+     }
+
+     .ringtone {
+         width: 44px;
+         height: 44px;
+         border: 1px solid #e0e0e0;
+         border-radius: 50%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         margin-top: 10px;
+         margin-right: 20px;
+     }
+
+
+     .ring {
+         display: flex;
+         align-items: center;
+         direction: ltr;
+         gap: 20px;
+         padding: 20px;
+         flex-shrink: 0;
+     }
+
+     .searchbox {
+         display: flex;
+         gap: 8PX;
+         width: 100%;
+         max-width: 480px;
+         height: 44px;
+         padding: 0 16px;
+         border: 1px solid #e0e0e0;
+         border-radius: 28px;
+         margin-top: 10px;
+     }
+
+     .search {
+         flex-shrink: 1;
+         min-width: 0;
+     }
+
+     .text1 {
+         color: #81858b;
+         font-size: 17px;
+         white-space: nowrap;
+     }
+
+     .text {
+         width: 104px;
+         height: 31px;
+         flex-shrink: 1;
+     }
+
+     .camera {
+         width: 44px;
+         height: 41px;
+         margin-right: auto;
+         flex-shrink: 1;
+     }
+
+     .digi-svg {
+         display: none;
+         margin-right: 200px;
+         margin-top: 20px;
+     }
+
+
+
+     .nav-bottom {
+         width: auto;
+         max-width: 100%;
+         height: 75px;
+         background-color: #fff;
+         display: flex;
+         justify-content: space-around;
+         align-items: center;
+         position: fixed;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         border-top: 1px solid #eee;
+         z-index: 11111111111111;
+         box-sizing: border-box;
+     }
+
+     .home svg {
+         display: block;
+     }
+
+     .home span {
+         display: block;
+     }
+
+     .category svg {
+         display: block;
+     }
+
+     .category span {
+         display: block;
+     }
+
+     .shopping-card svg {
+         display: block;
+     }
+
+     .shopping-card span {
+         display: block;
+     }
+
+
+     .inquiry svg {
+         display: block;
+     }
+
+     .inquiry span {
+         display: block;
+     }
+
+     .my-digikala svg {
+         display: block;
+     }
+
+     .my-digikala span {
+         display: block;
+     }
+
+ }
+
+ @media (min-width: 620px) {
+    
+     .nav-zin {
+         position: sticky;
+         top: 0;
+         background: #fff;
+         z-index: 111111111111;
+         padding-bottom: 10px;
+     }
+
+     .nav {
+         display: flex;
+     }
+
+     .actions {
+         display: none;
+         align-items: center;
+         gap: 16px;
+         margin-right: auto;
+         flex-shrink: 0;
+     }
+
+     .login {
+         display: none;
+         align-items: center;
+         gap: 8px;
+         height: 44px;
+         padding: 0 14px;
+         border: 1px solid #e0e0e0;
+         border-radius: 10px;
+         font-size: 14px;
+         color: #3f4064;
+         cursor: pointer;
+         white-space: nowrap;
+     }
+
+     .shopping-box {
+         display: none;
+         align-items: center;
+         cursor: pointer;
+     }
+
+     .menu-text {
+         display: none;
+         align-items: center;
+         gap: 22px;
+         padding: 12px 24px 0;
+         direction: rtl;
+     }
+
+     .menu {
+         display: none;
+         align-items: center;
+         gap: 6px;
+         font-size: 16px;
+         color: #3f4064;
+         text-decoration: none;
+         cursor: pointer;
+         white-space: nowrap;
+     }
+
+     .m-text1 {
+         display: none;
+         font-weight: 700;
+         color: #0c0c0c;
+     }
+
+     .menu:hover {
+         display: none;
+         color: #ef394e;
+     }
+
+     .ringtone {
+         width: 44px;
+         height: 44px;
+         border: 1px solid #e0e0e0;
+         border-radius: 50%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         margin-top: 10px;
+         margin-right: 20px;
+     }
+
+
+     .ring {
+         display: flex;
+         align-items: center;
+         direction: ltr;
+         gap: 20px;
+         padding: 20px;
+         flex-shrink: 0;
+     }
+
+     .searchbox {
+         display: flex;
+         gap: 8PX;
+         width: 100%;
+         max-width: 800px;
+         height: 44px;
+         padding: 0 16px;
+         border: 1px solid #e0e0e0;
+         border-radius: 28px;
+         margin-top: 10px;
+     }
+
+     .search {
+         flex-shrink: 1;
+         min-width: 0;
+     }
+
+     .text1 {
+         color: #81858b;
+         font-size: 17px;
+         white-space: nowrap;
+     }
+
+     .text {
+         width: 104px;
+         height: 31px;
+         flex-shrink: 1;
+     }
+
+     .camera {
+         width: 44px;
+         height: 41px;
+         margin-right: auto;
+         flex-shrink: 1;
+     }
+
+     .digi-svg {
+         display: none;
+         margin-right: 200px;
+         margin-top: 20px;
+     }
+
+
+
+     .nav-bottom {
+         width: auto;
+         max-width: 100%;
+         height: 75px;
+         background-color: #fff;
+         display: flex;
+         justify-content: space-around;
+         align-items: center;
+         position: fixed;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         border-top: 1px solid #eee;
+         z-index: 11111111111111;
+         box-sizing: border-box;
+     }
+
+     .home svg {
+         display: block;
+     }
+
+     .home span {
+         display: block;
+     }
+
+     .category svg {
+         display: block;
+     }
+
+     .category span {
+         display: block;
+     }
+
+     .shopping-card svg {
+         display: block;
+     }
+
+     .shopping-card span {
+         display: block;
+     }
+
+
+     .inquiry svg {
+         display: block;
+     }
+
+     .inquiry span {
+         display: block;
+     }
+
+     .my-digikala svg {
+         display: block;
+     }
+
+     .my-digikala span {
+         display: block;
+     }
+ }
+
+ @media (min-width: 1028px) and (max-width: 1880px) {
+     .nav-zin {
+         position: sticky;
+         top: 0;
+         background: #fff;
+         z-index: 111111111111;
+         padding-bottom: 10px;
+     }
+
+     .nav {
+         display: flex;
+         align-items: center;
+         gap: 24px;
+         padding: 10px 24px 0;
+     }
+
+     .actions {
+         display: flex;
+         align-items: center;
+         gap: 16px;
+         margin-right: auto;
+         flex-shrink: 0;
+     }
+
+     .login {
+         display: flex;
+         align-items: center;
+         gap: 8px;
+         height: 44px;
+         padding: 0 14px;
+         border: 1px solid #e0e0e0;
+         border-radius: 10px;
+         font-size: 14px;
+         color: #3f4064;
+         cursor: pointer;
+         white-space: nowrap;
+     }
+
+     .shopping-box {
+         display: flex;
+         align-items: center;
+         cursor: pointer;
+     }
+
+     .menu-text {
+         display: flex;
+         align-items: center;
+         gap: 22px;
+         padding: 12px 24px 0;
+         direction: rtl;
+     }
+
+     .menu {
+         display: flex;
+         align-items: center;
+         gap: 6px;
+         font-size: 16px;
+         color: #3f4064;
+         text-decoration: none;
+         cursor: pointer;
+         white-space: nowrap;
+     }
+
+     .m-text1 {
+         font-weight: 700;
+         color: #0c0c0c;
+     }
+
+     .menu:hover {
+         color: #ef394e;
+     }
+
+     .ringtone {
+         width: 44px;
+         height: 44px;
+         border: 1px solid #e0e0e0;
+         border-radius: 50%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         margin: 0;
+         flex-shrink: 0;
+     }
+
+     .ringtone svg {
+         width: 40px;
+         height: 40px;
+     }
+
+     .ring {
+         display: flex;
+         align-items: center;
+         direction: ltr;
+         gap: 20px;
+         padding: 20px;
+         flex-shrink: 0;
+     }
+
+     .searchbox {
+         display: flex;
+         align-items: center;
+         gap: 8PX;
+         flex: 1;
+         max-width: 600px;
+         height: 44px;
+         padding: 0 16px;
+         border: 1px solid #e0e0e0;
+         border-radius: 28px;
+         margin: 0;
+     }
+
+     .searchbox svg {
+         width: 44px;
+         height: 41px;
+     }
+
+     .search {
+         width: 44px;
+         height: 41px;
+         flex-shrink: 1;
+         min-width: 0;
+     }
+
+     .text1 {
+         color: #81858b;
+         font-size: 19px;
+         white-space: nowrap;
+     }
+
+     .text {
+         display: none;
+         flex-shrink: 1;
+     }
+
+     .camera {
+         display: none;
+         margin-right: auto;
+         flex-shrink: 1;
+     }
+
+     .digi-svg {
+         display: flex;
+         flex-shrink: 0;
+         margin: 0;
+     }
+
+     .digi-svg svg {
+         width: 105px;
+         height: 30px;
+     }
+
+
+
+     .nav-bottom {
+         display: none;
+         width: auto;
+         max-width: 100%;
+         height: 75px;
+         background-color: #fff;
+         justify-content: space-around;
+         align-items: center;
+         position: fixed;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         border-top: 1px solid #eee;
+         z-index: 11111111111111;
+         box-sizing: border-box;
+     }
+
+     .home svg {
+         display: block;
+     }
+
+     .home span {
+         display: block;
+     }
+
+     .category svg {
+         display: block;
+     }
+
+     .category span {
+         display: block;
+     }
+
+     .shopping-card svg {
+         display: block;
+     }
+
+     .shopping-card span {
+         display: block;
+     }
+
+
+     .inquiry svg {
+         display: block;
+     }
+
+     .inquiry span {
+         display: block;
+     }
+
+     .my-digikala svg {
+         display: block;
+     }
+
+     .my-digikala span {
+         display: block;
+     }
+ }

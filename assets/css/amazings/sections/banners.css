@@ -1,0 +1,1140 @@
+   @media (min-width: 578px) {
+
+       .opacity22 {
+           width: 100%;
+           height: fit-content;
+           display: none;
+           flex-direction: row;
+           margin-top: 50px;
+           flex-flow: wrap;
+           gap: 20px;
+       }
+
+       .opacity111 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: red;
+           margin: 100px auto;
+           border-radius: 12px;
+           border: 2px solid gray;
+       }
+
+       .opacity111 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity111 .svg .span1 {
+           color: white;
+           font-size: 30px;
+       }
+
+       .opacity111 .svg .span2 {
+           display: inline-block;
+           width: 38px;
+           height: 38px;
+           color: azure;
+       }
+
+       .opacity111 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 220px;
+       }
+
+
+
+
+       .opacity111 .opacity2222 {
+           width: 90%;
+           height: 100%;
+           overflow: hidden;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide {
+           height: 288px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border: 2px solid gray;
+           border-radius: 10px;
+           box-sizing: border-box;
+       }
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide img {
+           width: 100%;
+           height: 114px;
+           object-fit: contain;
+       }
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide .img2 {
+           width: 81px;
+           height: 114px;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide h2 {
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity2222 .swiperayhan222 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+       .opacity2222 .swiperayhan222 .swiper-slide span .svg-sve {
+           width: 24px;
+           height: 24px;
+       }
+
+
+       .off {
+           width: 40px;
+           height: 20px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           background-color: #d71920;
+           color: white;
+           border-radius: 20px;
+           font-size: 3px;
+           font-weight: bold;
+       }
+
+
+
+       .opacity1111 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: white;
+           margin: 100px auto;
+           border-radius: 12px;
+       }
+
+       .opacity1111 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity1111 .svg .span1 {
+           display: inline-block;
+           font-size: 30px;
+       }
+
+       .opacity1111 .svg .span2 {
+           display: block;
+       }
+
+       .opacity1111 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 220px;
+       }
+
+
+
+
+       .opacity1111 .opacity22222 {
+           width: 90%;
+           height: 100%;
+           display: flex;
+           overflow: hidden;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide {
+           height: 138px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border-radius: 10px;
+           margin: 10px;
+       }
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide img {
+           width: 100%;
+           height: 74px;
+           object-fit: contain;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide h2 {
+           margin-right: 40px;
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity22222 .swiperayhan2222 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+
+       .opacity11 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: white;
+           margin: 100px auto;
+           border-radius: 12px;
+           border: 2px solid gray;
+           margin-top: 0;
+       }
+
+       .opacity11 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity11 .svg .span1 {
+           display: inline-block;
+           font-size: 30px;
+       }
+
+       .opacity11 .svg .span21 svg {
+           width: 30px;
+           height: 30px;
+       }
+
+       .opacity11 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 330px;
+       }
+
+
+
+
+       .opacity11 .opacity222 {
+           width: 90%;
+           height: 100%;
+           display: flex;
+           overflow: hidden;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide {
+           height: 288px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border: 2px solid gray;
+           border-radius: 10px;
+           margin: 10px;
+       }
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide img {
+           width: 100%;
+           height: 114px;
+           object-fit: contain;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide h2 {
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity222 .swiperayhan22 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+
+       .card {
+           width: 100%;
+           border-bottom: 1px solid gray;
+           padding: 14px 16px;
+           margin-top: 80px;
+       }
+
+       .svg {
+           margin: 0 0 12px;
+       }
+
+       .row {
+           display: flex;
+           align-items: center;
+           gap: 14px;
+       }
+
+       .img {
+           flex: none;
+           width: 104px;
+           height: 104px;
+           border-radius: 8px;
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+           justify-content: center;
+           gap: 6px;
+       }
+
+       .img img {
+           object-fit: cover;
+           width: 104px;
+           height: 104px;
+       }
+
+       .info {
+           flex: 1;
+           min-width: 0;
+       }
+
+       .text {
+           margin: 0 0 8px;
+           font-size: 15px;
+           font-weight: 700;
+           line-height: 1.7;
+       }
+
+       .meta {
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           margin-top: 14px;
+           padding-top: 12px;
+       }
+
+       .off {
+           background-color: red;
+           color: #fff;
+           font-size: 13px;
+           font-weight: 700;
+           padding: 4px 12px;
+           border-radius: 50%;
+       }
+
+       .pay {
+           display: flex;
+           align-items: baseline;
+           gap: 6px;
+       }
+
+       .pay .pay1 {
+           font-size: 22px;
+           font-weight: 700;
+       }
+
+       .pay span {
+           font-size: 13px;
+       }
+   }
+
+   @media(min-width: 640px) {
+
+       .opacity22 {
+           width: 100%;
+           height: fit-content;
+           display: none;
+           flex-direction: row;
+           margin-top: 50px;
+           flex-flow: wrap;
+           gap: 20px;
+       }
+
+       .opacity111 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: red;
+           margin: 100px auto;
+           border-radius: 12px;
+           border: 2px solid gray;
+       }
+
+       .opacity111 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity111 .svg .span1 {
+           color: white;
+           font-size: 30px;
+       }
+
+       .opacity111 .svg .span2 {
+           display: inline-block;
+           width: 38px;
+           height: 38px;
+           color: azure;
+       }
+
+       .opacity111 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 220px;
+       }
+
+
+
+
+       .opacity111 .opacity2222 {
+           width: 90%;
+           height: 100%;
+           overflow: hidden;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide {
+           height: 288px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border: 2px solid gray;
+           border-radius: 10px;
+           box-sizing: border-box;
+       }
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide img {
+           width: 100%;
+           height: 114px;
+           object-fit: contain;
+       }
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide .img2 {
+           width: 81px;
+           height: 114px;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide h2 {
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity2222 .swiperayhan222 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+       .opacity2222 .swiperayhan222 .swiper-slide span .svg-sve {
+           width: 24px;
+           height: 24px;
+       }
+
+
+       .off {
+           width: 40px;
+           height: 20px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           background-color: #d71920;
+           color: white;
+           border-radius: 20px;
+           font-size: 3px;
+           font-weight: bold;
+       }
+
+
+
+       .opacity1111 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: white;
+           margin: 100px auto;
+           border-radius: 12px;
+       }
+
+       .opacity1111 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity1111 .svg .span1 {
+           display: inline-block;
+           font-size: 30px;
+       }
+
+       .opacity1111 .svg .span2 {
+           display: block;
+       }
+
+       .opacity1111 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 220px;
+       }
+
+
+
+
+       .opacity1111 .opacity22222 {
+           width: 90%;
+           height: 100%;
+           display: flex;
+           overflow: hidden;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide {
+           height: 138px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border-radius: 10px;
+           margin: 10px;
+       }
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide img {
+           width: 100%;
+           height: 74px;
+           object-fit: contain;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide h2 {
+           margin-right: 40px;
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity22222 .swiperayhan2222 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+
+       .opacity11 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: white;
+           margin: 100px auto;
+           border-radius: 12px;
+           border: 2px solid gray;
+           margin-top: 0;
+       }
+
+       .opacity11 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity11 .svg .span1 {
+           display: inline-block;
+           font-size: 30px;
+       }
+
+       .opacity11 .svg .span21 svg {
+           width: 30px;
+           height: 30px;
+       }
+
+       .opacity11 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 330px;
+       }
+
+
+
+
+       .opacity11 .opacity222 {
+           width: 90%;
+           height: 100%;
+           display: flex;
+           overflow: hidden;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide {
+           height: 288px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border: 2px solid gray;
+           border-radius: 10px;
+           margin: 10px;
+       }
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide img {
+           width: 100%;
+           height: 114px;
+           object-fit: contain;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide h2 {
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity222 .swiperayhan22 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+
+       .card {
+           display: none;
+           width: 100%;
+           border-bottom: 1px solid gray;
+           padding: 14px 16px;
+           margin-top: 80px;
+       }
+
+       .svg {
+           margin: 0 0 12px;
+       }
+
+       .row {
+           display: flex;
+           align-items: center;
+           gap: 14px;
+       }
+
+       .img {
+           flex: none;
+           width: 104px;
+           height: 104px;
+           border-radius: 8px;
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+           justify-content: center;
+           gap: 6px;
+       }
+
+       .img img {
+           object-fit: cover;
+           width: 104px;
+           height: 104px;
+       }
+
+       .info {
+           flex: 1;
+           min-width: 0;
+       }
+
+       .text {
+           margin: 0 0 8px;
+           font-size: 15px;
+           font-weight: 700;
+           line-height: 1.7;
+       }
+
+       .meta {
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           margin-top: 14px;
+           padding-top: 12px;
+       }
+
+       .off {
+           background-color: red;
+           color: #fff;
+           font-size: 13px;
+           font-weight: 700;
+           padding: 4px 12px;
+           border-radius: 50%;
+       }
+
+       .pay {
+           display: flex;
+           align-items: baseline;
+           gap: 6px;
+       }
+
+       .pay .pay1 {
+           font-size: 22px;
+           font-weight: 700;
+       }
+
+       .pay span {
+           font-size: 13px;
+       }
+
+
+
+       .opacity22 {
+           width: 600px;
+           height: fit-content;
+           display: flex;
+           flex-direction: row;
+           margin-top: 50px;
+           flex-flow: wrap;
+           gap: 20px;
+       }
+
+       .opacity23 {
+           width: 270px;
+           height: 300px;
+           margin-top: 10px;
+       }
+
+       .opacity23 img {
+           width: 106px;
+           height: 106px;
+           object-fit: cover;
+       }
+   }
+
+
+
+
+
+   @media (min-width: 1028px) and (max-width: 1880px) {
+       .opacity111 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: red;
+           margin: 100px auto;
+           border-radius: 12px;
+           border: 2px solid gray;
+       }
+
+       .opacity111 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity111 .svg .span1 {
+           color: white;
+           font-size: 30px;
+       }
+
+       .opacity111 .svg .span2 {
+           display: inline-block;
+           width: 38px;
+           height: 38px;
+           color: azure;
+       }
+
+       .opacity111 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 220px;
+       }
+
+
+
+
+       .opacity111 .opacity2222 {
+           width: 90%;
+           height: 100%;
+           overflow: hidden;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide {
+           height: 288px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border: 2px solid gray;
+           border-radius: 10px;
+           box-sizing: border-box;
+       }
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide img {
+           width: 100%;
+           height: 114px;
+           object-fit: contain;
+       }
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide .img2 {
+           width: 81px;
+           height: 114px;
+       }
+
+
+       .opacity111 .opacity2222 .swiperayhan222 .swiper-slide h2 {
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity2222 .swiperayhan222 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+       .opacity2222 .swiperayhan222 .swiper-slide span .svg-sve {
+           width: 24px;
+           height: 24px;
+       }
+
+
+       .off {
+           width: 40px;
+           height: 20px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           background-color: #d71920;
+           color: white;
+           border-radius: 20px;
+           font-size: 3px;
+           font-weight: bold;
+       }
+
+
+
+       .opacity1111 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: white;
+           margin: 100px auto;
+           border-radius: 12px;
+       }
+
+       .opacity1111 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity1111 .svg .span1 {
+           display: inline-block;
+           font-size: 30px;
+       }
+
+       .opacity1111 .svg .span2 {
+           display: block;
+       }
+
+       .opacity1111 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 220px;
+       }
+
+
+
+
+       .opacity1111 .opacity22222 {
+           width: 90%;
+           height: 100%;
+           display: flex;
+           overflow: hidden;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide {
+           height: 138px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border-radius: 10px;
+           margin: 10px;
+       }
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide img {
+           width: 100%;
+           height: 74px;
+           object-fit: contain;
+       }
+
+
+       .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide h2 {
+           margin-right: 40px;
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity22222 .swiperayhan2222 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+
+       .opacity11 {
+           width: 100%;
+           height: fit-content;
+           padding: 20px 0;
+           background-color: white;
+           margin: 100px auto;
+           border-radius: 12px;
+           border: 2px solid gray;
+           margin-top: 0;
+       }
+
+       .opacity11 .svg img {
+           width: 81px;
+           height: 24px;
+       }
+
+       .opacity11 .svg .span1 {
+           display: inline-block;
+           font-size: 30px;
+       }
+
+       .opacity11 .svg .span21 svg {
+           width: 30px;
+           height: 30px;
+       }
+
+       .opacity11 .svg button {
+           display: inline-block;
+           padding: 4px 8px;
+           color: #2b2b2b;
+           border-radius: 8px;
+           background-color: whitesmoke;
+           font-size: 18px;
+           margin-right: 330px;
+       }
+
+
+
+
+       .opacity11 .opacity222 {
+           width: 90%;
+           height: 100%;
+           display: flex;
+           overflow: hidden;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 {
+           width: 100%;
+           height: 100%;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide {
+           height: 288px;
+           display: flex;
+           flex-flow: column nowrap;
+           justify-content: space-around;
+           background-color: white;
+           padding: 0 8px 8px 8px;
+           border: 2px solid gray;
+           border-radius: 10px;
+           margin: 10px;
+       }
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide img {
+           width: 100%;
+           height: 114px;
+           object-fit: contain;
+       }
+
+
+       .opacity11 .opacity222 .swiperayhan22 .swiper-slide h2 {
+           font-size: 14px;
+           color: rgb(66, 66, 66);
+       }
+
+       .opacity222 .swiperayhan22 .swiper-slide span {
+           font-size: 18px;
+           color: rgb(35, 37, 78);
+       }
+
+
+
+       .card {
+           display: none;
+           width: 100%;
+           border-bottom: 1px solid gray;
+           padding: 14px 16px;
+           margin-top: 80px;
+       }
+
+       .svg {
+           margin: 0 0 12px;
+       }
+
+       .row {
+           display: flex;
+           align-items: center;
+           gap: 14px;
+       }
+
+       .img {
+           flex: none;
+           width: 104px;
+           height: 104px;
+           border-radius: 8px;
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+           justify-content: center;
+           gap: 6px;
+       }
+
+       .img img {
+           object-fit: cover;
+           width: 104px;
+           height: 104px;
+       }
+
+       .info {
+           flex: 1;
+           min-width: 0;
+       }
+
+       .text {
+           margin: 0 0 8px;
+           font-size: 15px;
+           font-weight: 700;
+           line-height: 1.7;
+       }
+
+       .meta {
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           margin-top: 14px;
+           padding-top: 12px;
+       }
+
+       .off {
+           background-color: red;
+           color: #fff;
+           font-size: 13px;
+           font-weight: 700;
+           padding: 4px 12px;
+           border-radius: 50%;
+       }
+
+       .pay {
+           display: flex;
+           align-items: baseline;
+           gap: 6px;
+       }
+
+       .pay .pay1 {
+           font-size: 22px;
+           font-weight: 700;
+       }
+
+       .pay span {
+           font-size: 13px;
+       }
+
+
+
+       .opacity22 {
+           width: 100%;
+           height: fit-content;
+           display: flex;
+           flex-direction: row;
+           margin-top: 50px;
+           flex-flow: wrap;
+           gap: 20px;
+       }
+
+       .opacity23 {
+           width: 300px;
+           height: 300px;
+           margin-top: 10px;
+       }
+
+       .opacity23 img {
+           width: 106px;
+           height: 106px;
+           object-fit: cover;
+       }
+   }

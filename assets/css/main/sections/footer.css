@@ -1,0 +1,444 @@
+ @media (min-width: 578px) {
+     .footer-I {
+         display: none;
+     }
+
+     .footer {
+         max-width: 620px;
+         margin: 0 auto;
+         background-color: white;
+         padding: 0 16px 24px;
+     }
+
+     .button-foot {
+         display: flex;
+         justify-content: center;
+         padding: 12px 0;
+     }
+
+     .button-foot button {
+         border: 0;
+         background-color: gray;
+         font: inherit;
+         font-size: 13px;
+         padding: 6px 16px;
+         border-radius: 20px;
+         cursor: pointer;
+     }
+
+
+     .row {
+         display: flex;
+         align-items: center;
+         justify-content: space-around;
+         gap: 12px;
+         padding: 14px 0;
+         border-bottom: 1px solid gray;
+     }
+
+     .row-info {
+         display: flex;
+         align-items: center;
+         gap: 12px;
+     }
+
+     .row-icon {
+         flex: none;
+         width: 40px;
+         height: 40px;
+         border-radius: 50%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+
+     .row-icon img {
+         width: 15px;
+         height: 15px;
+         object-fit: contain;
+     }
+
+     .row-text {
+         display: flex;
+         flex-direction: column;
+         gap: 2px;
+     }
+
+     .row-title {
+         font-size: 14px;
+         font-width: 700;
+     }
+
+     .row-sub {
+         font-size: 12px;
+         color: gray;
+     }
+
+     .btn {
+         flex: none;
+         border: 0;
+         background-color: gray;
+         color: black;
+         font: inherit;
+         font-size: 13px;
+         font-width: 500;
+         padding: 8px 20px;
+         border-radius: 20px;
+         cursor: pointer;
+     }
+
+     .menu {
+         list-style: none;
+     }
+
+     .menu-items {
+         padding: 16px 0;
+         border-bottom: 1px solid gray;
+         font-size: 14px;
+         font-weight: 500;
+     }
+
+     .btn:focus-visible,
+     .button-foot button:focus-visible {
+         outline: 2px solid gray;
+         outline-offset: 2px;
+     }
+ }
+
+ @media (min-width: 620px) {
+     .footer-I {
+         display: none;
+     }
+
+     .footer {
+         max-width: 620px;
+         margin: 0 auto;
+         background-color: white;
+         padding: 0 16px 24px;
+     }
+
+     .button-foot {
+         display: flex;
+         justify-content: center;
+         padding: 12px 0;
+     }
+
+     .button-foot button {
+         border: 0;
+         background-color: gray;
+         font: inherit;
+         font-size: 13px;
+         padding: 6px 16px;
+         border-radius: 20px;
+         cursor: pointer;
+     }
+
+
+     .row {
+         display: flex;
+         align-items: center;
+         justify-content: space-around;
+         gap: 12px;
+         padding: 14px 0;
+         border-bottom: 1px solid gray;
+     }
+
+     .row-info {
+         display: flex;
+         align-items: center;
+         gap: 12px;
+     }
+
+     .row-icon {
+         flex: none;
+         width: 40px;
+         height: 40px;
+         border-radius: 50%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+
+     .row-icon img {
+         width: 15px;
+         height: 15px;
+         object-fit: contain;
+     }
+
+     .row-text {
+         display: flex;
+         flex-direction: column;
+         gap: 2px;
+     }
+
+     .row-title {
+         font-size: 14px;
+         font-width: 700;
+     }
+
+     .row-sub {
+         font-size: 12px;
+         color: gray;
+     }
+
+     .btn {
+         flex: none;
+         border: 0;
+         background-color: gray;
+         color: black;
+         font: inherit;
+         font-size: 13px;
+         font-width: 500;
+         padding: 8px 20px;
+         border-radius: 20px;
+         cursor: pointer;
+     }
+
+     .menu {
+         list-style: none;
+     }
+
+     .menu-items {
+         padding: 16px 0;
+         border-bottom: 1px solid gray;
+         font-size: 14px;
+         font-weight: 500;
+     }
+
+     .btn:focus-visible,
+     .button-foot button:focus-visible {
+         outline: 2px solid gray;
+         outline-offset: 2px;
+     }
+ }
+
+
+ @media (min-width: 1028px) and (max-width: 1880px) {
+     .footer {
+         display: none;
+         max-width: 620px;
+         margin: 0 auto;
+         background-color: white;
+         padding: 0 16px 24px;
+     }
+
+     .button-foot {
+         display: flex;
+         justify-content: center;
+         padding: 12px 0;
+     }
+
+     .button-foot button {
+         border: 0;
+         background-color: gray;
+         font: inherit;
+         font-size: 13px;
+         padding: 6px 16px;
+         border-radius: 20px;
+         cursor: pointer;
+     }
+
+
+     .row {
+         display: flex;
+         align-items: center;
+         justify-content: space-around;
+         gap: 12px;
+         padding: 14px 0;
+         border-bottom: 1px solid gray;
+     }
+
+     .row-info {
+         display: flex;
+         align-items: center;
+         gap: 12px;
+     }
+
+     .row-icon {
+         flex: none;
+         width: 40px;
+         height: 40px;
+         border-radius: 50%;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+
+     .row-icon img {
+         width: 15px;
+         height: 15px;
+         object-fit: contain;
+     }
+
+     .row-text {
+         display: flex;
+         flex-direction: column;
+         gap: 2px;
+     }
+
+     .row-title {
+         font-size: 14px;
+         font-width: 700;
+     }
+
+     .row-sub {
+         font-size: 12px;
+         color: gray;
+     }
+
+     .btn {
+         flex: none;
+         border: 0;
+         background-color: gray;
+         color: black;
+         font: inherit;
+         font-size: 13px;
+         font-width: 500;
+         padding: 8px 20px;
+         border-radius: 20px;
+         cursor: pointer;
+     }
+
+     .menu {
+         list-style: none;
+     }
+
+     .menu-items {
+         padding: 16px 0;
+         border-bottom: 1px solid gray;
+         font-size: 14px;
+         font-weight: 500;
+     }
+
+     .btn:focus-visible,
+     .button-foot button:focus-visible {
+         outline: 2px solid gray;
+         outline-offset: 2px;
+     }
+
+
+
+     .footer-I {
+        display: inline;
+         direction: rtl;
+         padding: 24px 60px 40px;
+         border-top: 1px solid #e0e0e0;
+     }
+
+     .f-top {
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
+     }
+
+     f-logo svg {
+         width: 105px;
+         height: 30px;
+     }
+
+     .f-text {
+         margin-top: 12px;
+         font-size: 13px;
+         color: #62666d;
+     }
+
+     .sep {
+         margin: 0 10px;
+         color: #c0c0c0;
+     }
+
+     .f-back {
+         display: flex;
+         align-items: center;
+         gap: 8px;
+         padding: 8px 20px;
+         border: 1px solid #e0e0e0;
+         border-radius: 8px;
+         font-size: 13px;
+         cursor: pointer;
+     }
+
+     .f-svg {
+         display: flex;
+         justify-content: space-around;
+         margin: 40px 0;
+     }
+
+     .f-svg1 {
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         gap: 10px;
+         font-size: 12px;
+         text-align: center;
+     }
+
+     .icon {
+         width: 56px;
+         height: 56px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+
+     .icon svg {
+         width: 100%;
+         height: 100%;
+     }
+
+     .f-cols {
+         display: flex;
+         justify-content: space-between;
+         gap: 40px;
+     }
+
+     .f-col {
+         display: flex;
+         flex-direction: column;
+         gap: 14px;
+         font-size: 13px;
+         color: #62666d;
+     }
+
+     .f-col h4 {
+         margin: 0 0 6px;
+         font-size: 15px;
+         font-width: 700;
+         color: black;
+     }
+
+     .f-news {
+         margin: 14px 0 0;
+         font-size: 14px;
+         font-width: 700;
+         color: black;
+     }
+
+     .f-email {
+         display: flex;
+         gap: 8px;
+         width: 100%;
+         max-width: 420px;
+     }
+
+     .f-email input {
+         flex: 1;
+         height: 44px;
+         padding: 0 14px;
+         border: 1px solid #e0e0e0;
+         border-radius: 8px;
+         background: #f0f0f1;
+         font-size: 13px;
+         outline: none;
+     }
+
+     .f-email button {
+         width: 70px;
+         height: 44px;
+         border: none;
+         border-radius: 8px;
+         background: #c0c2c5;
+         color: #fff;
+         cursor: pointer;
+     }
+ }

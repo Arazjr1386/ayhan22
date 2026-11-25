@@ -1,0 +1,2614 @@
+ @media (min-width: 578px) {
+
+
+   .circle11 {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 25px;
+     width: 100%;
+     margin-top: 100px;
+   }
+
+   .child {
+     width: 52px;
+     height: 52px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     flex-shrink: 0;
+     border-radius: 50%;
+     object-fit: cover;
+   }
+
+   .circle11 .child img {
+     width: 100%;
+   }
+
+   .circle11 .child p {
+     font-size: 20px;
+   }
+
+   .circle11 .child span {
+     font-size: 6px;
+     margin-top: 10px;
+   }
+
+
+
+   .amazing-offers {
+     width: 700px;
+     height: fit-content;
+     padding: 20px 0;
+     background-image: linear-gradient(225deg, rgb(210, 44, 78)0%, rgb(238, 56, 78)100%);
+     margin: 100px auto;
+     border-radius: 12px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+
+   }
+
+   .amazing-offers .right-side {
+     width: 166px;
+     height: 300px;
+     padding: 0 20px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: center;
+     align-items: center;
+     gap: 30px;
+   }
+
+   .amazing-offers .right-side a {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 12px;
+   }
+
+
+
+
+   .amazing-offers .left-side {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide:nth-of-type(1) {
+     border-top-right-radius: 8px;
+     border-bottom-right-radius: 8px;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide:nth-of-type {
+     border-top-left-radius: 8px;
+     border-bottom-left-radius: 8px;
+   }
+
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+   .off {
+     width: 40px;
+     height: 20px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 20px;
+     font-size: 3px;
+     font-weight: bold;
+   }
+
+
+
+   .opacity {
+     width: 700px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: burlywood;
+     margin: 100px auto;
+     border-radius: 12px;
+
+   }
+
+   .opacity .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity .svg span {
+     font-size: 30px;
+   }
+
+
+
+
+   .opacity .opacity2 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity .opacity2 .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity .opacity2 .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     opacity: 0.5;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity .opacity2 .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity .opacity2 .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2 .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+   .fore-box {
+     width: 100%;
+     max-width: 750px;
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+     margin: 100px auto;
+     padding: 0 10px;
+     box-sizing: border-box;
+   }
+
+   .fore-box .child-hood {
+     flex: 1 1 calc(50% - 10px);
+     max-width: 335px;
+     height: auto;
+   }
+
+   .fore-box .child-hood img {
+     width: 100%;
+     height: auto;
+     object-fit: contain;
+     border-radius: 10px;
+   }
+
+
+   .amazing-offers2 {
+     width: 700px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: forestgreen;
+     margin: 100px auto;
+     border-radius: 12px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+
+   }
+
+   .amazing-offers2 .right-side {
+     width: 166px;
+     height: 300px;
+     padding: 0 20px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: center;
+     align-items: center;
+     gap: 30px;
+   }
+
+   .amazing-offers2 .right-side a {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 12px;
+   }
+
+
+
+
+   .amazing-offers2 .left-side {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide:nth-of-type(1) {
+     border-top-right-radius: 8px;
+     border-bottom-right-radius: 8px;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide:nth-of-type {
+     border-top-left-radius: 8px;
+     border-bottom-left-radius: 8px;
+   }
+
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+   .off {
+     width: 40px;
+     height: 20px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 20px;
+     font-size: 3px;
+     font-weight: bold;
+   }
+
+
+
+
+   .circle111 {
+     width: 350;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 25px;
+     flex-wrap: wrap;
+   }
+
+   .circle111 .child2 {
+     width: 170px;
+     border-radius: 50%;
+     object-fit: cover;
+   }
+
+   .circle111 .child2 img {
+     width: 100%;
+   }
+
+   .circle111 .child2 span {
+     margin-right: 40px;
+   }
+
+
+
+
+
+   .two-box {
+     width: 100%;
+     max-width: 1050px;
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+     margin: 100px auto;
+     padding: 0 10px;
+     box-sizing: border-box;
+   }
+
+   .two-box .child-hood {
+     flex: 1 1 300px;
+     max-width: 535px;
+     height: auto;
+   }
+
+   .two-box .child-hood img {
+     width: 100%;
+     height: auto;
+     object-fit: contain;
+     border-radius: 10px;
+   }
+
+
+
+
+
+
+   .opacity1 {
+     width: 700px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity1 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity1 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity1 .svg .span2 {
+     display: block;
+   }
+
+   .opacity1 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 270px;
+   }
+
+
+
+
+   .opacity11 .opacity22 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity22 .swiperayhan2 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+   .opacity11 {
+     width: 700px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+     margin-top: 0;
+   }
+
+   .opacity11 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity11 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity11 .svg .span2 {
+     display: block;
+   }
+
+   .opacity11 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 330px;
+   }
+
+
+
+
+   .opacity11 .opacity222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity222 .swiperayhan22 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+   .opacity111 {
+     width: 700px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity111 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity111 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity111 .svg .span2 {
+     display: block;
+   }
+
+   .opacity111 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 220px;
+   }
+
+
+
+
+   .opacity111 .opacity2222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2222 .swiperayhan222 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .opacity1111 {
+     width: 700px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity1111 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity1111 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity1111 .svg .span2 {
+     display: block;
+   }
+
+   .opacity1111 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 220px;
+   }
+
+
+
+
+   .opacity1111 .opacity22222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide {
+     height: 138px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide img {
+     width: 100%;
+     height: 74px;
+     object-fit: contain;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity22222 .swiperayhan2222 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+
+
+   .opacity12 {
+     width: 700px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity12 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity12 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity12 .svg .span2 {
+     display: block;
+   }
+
+   .opacity12 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 330px;
+   }
+
+
+
+
+   .opacity12 .opacity2221 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide {
+     width: 400px;
+     height: auto;
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     background-color: white;
+     gap: 10px;
+     padding: 8px;
+   }
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide img {
+     width: 114px;
+     height: 114px;
+     flex-shrink: 0;
+     object-fit: contain;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide .ff2 h2 {
+     white-space: normal;
+     flex: 1;
+     min-width: 0;
+     margin: 0;
+     line-height: 1.8;
+     word-break: normal;
+     overflow-wrap: normal;
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2221 .swiperayhan221 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide .ff2 {
+     display: flex;
+     flex: 1 1 0;
+     min-width: 0;
+     white-space: normal;
+     flex-direction: row;
+     gap: 8px;
+     align-items: flex-start;
+   }
+
+
+   .off2 {
+     width: 20px;
+     height: 20px;
+     flex-shrink: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 50px;
+     font-size: 8px;
+     font-weight: bold;
+   }
+
+ }
+
+ @media (min-width: 620px) {
+   .circle11 {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 25px;
+     width: 100%;
+     margin-top: 100px;
+   }
+
+   .child {
+     width: 52px;
+     height: 52px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     flex-shrink: 0;
+     border-radius: 50%;
+     object-fit: cover;
+   }
+
+   .circle11 .child img {
+     width: 100%;
+   }
+
+   .circle11 .child p {
+     font-size: 20px;
+   }
+
+   .circle11 .child span {
+     font-size: 6px;
+     margin-top: 10px;
+   }
+
+
+
+   .amazing-offers {
+     width: 100%;
+     height: fit-content;
+     padding: 20px 0;
+     background-image: linear-gradient(225deg, rgb(210, 44, 78)0%, rgb(238, 56, 78)100%);
+     margin: 100px auto;
+     border-radius: 12px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+
+   }
+
+   .amazing-offers .right-side {
+     width: 166px;
+     height: 300px;
+     padding: 0 20px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: center;
+     align-items: center;
+     gap: 30px;
+   }
+
+   .amazing-offers .right-side a {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 12px;
+   }
+
+
+
+
+   .amazing-offers .left-side {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide:nth-of-type(1) {
+     border-top-right-radius: 8px;
+     border-bottom-right-radius: 8px;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide:nth-of-type {
+     border-top-left-radius: 8px;
+     border-bottom-left-radius: 8px;
+   }
+
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+   .off {
+     width: 40px;
+     height: 20px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 20px;
+     font-size: 3px;
+     font-weight: bold;
+   }
+
+
+
+   .opacity {
+     width: 100%;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: burlywood;
+     margin: 100px auto;
+     border-radius: 12px;
+
+   }
+
+   .opacity .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity .svg span {
+     font-size: 30px;
+   }
+
+
+
+
+   .opacity .opacity2 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity .opacity2 .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity .opacity2 .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     opacity: 0.5;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity .opacity2 .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity .opacity2 .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2 .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+   .fore-box {
+     width: 100%;
+     max-width: 750px;
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+     margin: 100px auto;
+     padding: 0 10px;
+     box-sizing: border-box;
+   }
+
+   .fore-box .child-hood {
+     flex: 1 1 calc(50% - 10px);
+     max-width: 335px;
+     height: auto;
+   }
+
+   .fore-box .child-hood img {
+     width: 100%;
+     height: auto;
+     object-fit: contain;
+     border-radius: 10px;
+   }
+
+
+   .amazing-offers2 {
+     width: 100%;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: forestgreen;
+     margin: 100px auto;
+     border-radius: 12px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+
+   }
+
+   .amazing-offers2 .right-side {
+     width: 166px;
+     height: 300px;
+     padding: 0 20px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: center;
+     align-items: center;
+     gap: 30px;
+   }
+
+   .amazing-offers2 .right-side a {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 12px;
+   }
+
+
+
+
+   .amazing-offers2 .left-side {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide:nth-of-type(1) {
+     border-top-right-radius: 8px;
+     border-bottom-right-radius: 8px;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide:nth-of-type {
+     border-top-left-radius: 8px;
+     border-bottom-left-radius: 8px;
+   }
+
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+   .off {
+     width: 40px;
+     height: 20px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 20px;
+     font-size: 3px;
+     font-weight: bold;
+   }
+
+
+
+
+   .circle111 {
+     width: 350;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 25px;
+     flex-wrap: wrap;
+   }
+
+   .circle111 .child2 {
+     width: 170px;
+     border-radius: 50%;
+     object-fit: cover;
+   }
+
+   .circle111 .child2 img {
+     width: 100%;
+   }
+
+   .circle111 .child2 span {
+     margin-right: 40px;
+   }
+
+
+
+
+
+   .two-box {
+     width: 100%;
+     max-width: 1050px;
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+     margin: 100px auto;
+     padding: 0 10px;
+     box-sizing: border-box;
+   }
+
+   .two-box .child-hood {
+     flex: 1 1 300px;
+     max-width: 535px;
+     height: auto;
+   }
+
+   .two-box .child-hood img {
+     width: 100%;
+     height: auto;
+     object-fit: contain;
+     border-radius: 10px;
+   }
+
+
+
+
+
+
+   .opacity1 {
+     width: 100%;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity1 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity1 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity1 .svg .span2 {
+     display: block;
+   }
+
+   .opacity1 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 870px;
+   }
+
+
+
+
+   .opacity11 .opacity22 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity22 .swiperayhan2 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+   .opacity11 {
+     width: 100%;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity11 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity11 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity11 .svg .span2 {
+     display: block;
+   }
+
+   .opacity11 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 830px;
+   }
+
+
+
+
+   .opacity11 .opacity222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity222 .swiperayhan22 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+   .opacity111 {
+     width: 100%;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity111 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity111 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity111 .svg .span2 {
+     display: block;
+   }
+
+   .opacity111 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 820px;
+   }
+
+
+
+
+   .opacity111 .opacity2222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2222 .swiperayhan222 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .opacity1111 {
+     width: 100%;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity1111 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity1111 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity1111 .svg .span2 {
+     display: block;
+   }
+
+   .opacity1111 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 220px;
+   }
+
+
+
+
+   .opacity1111 .opacity22222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide {
+     height: 138px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide img {
+     width: 100%;
+     height: 74px;
+     object-fit: contain;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity22222 .swiperayhan2222 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+
+
+   .opacity12 {
+     width: 100%;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity12 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity12 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity12 .svg .span2 {
+     display: block;
+   }
+
+   .opacity12 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 330px;
+   }
+
+
+
+
+   .opacity12 .opacity2221 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide {
+     width: 400px;
+     height: auto;
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     background-color: white;
+     gap: 10px;
+     padding: 8px;
+   }
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide img {
+     width: 114px;
+     height: 114px;
+     flex-shrink: 0;
+     object-fit: contain;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide .ff2 h2 {
+     white-space: normal;
+     flex: 1;
+     min-width: 0;
+     margin: 0;
+     line-height: 1.8;
+     word-break: normal;
+     overflow-wrap: normal;
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2221 .swiperayhan221 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide .ff2 {
+     display: flex;
+     flex: 1 1 0;
+     min-width: 0;
+     white-space: normal;
+     flex-direction: row;
+     gap: 8px;
+     align-items: flex-start;
+   }
+
+
+   .off2 {
+     width: 20px;
+     height: 20px;
+     flex-shrink: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 50px;
+     font-size: 8px;
+     font-weight: bold;
+   }
+ }
+
+ @media (min-width: 1028px) and (max-width: 1880px) {
+   .circle11 {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 85px;
+     width: 100%;
+     margin-top: 100px;
+   }
+
+   .child {
+     width: 52px;
+     height: 52px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     flex-shrink: 0;
+     border-radius: 50%;
+     object-fit: cover;
+   }
+
+   .circle11 .child img {
+     width: 100%;
+   }
+
+   .circle11 .child p {
+    margin-bottom: 10px;
+     font-size: 40px;
+   }
+
+   .circle11 .child span {
+     font-size: 14px;
+     margin-top: 10px;
+   }
+
+   .ssrr{
+    margin-bottom: 20px;
+   }
+
+
+
+   .amazing-offers {
+     width: 1336px;
+     height: fit-content;
+     padding: 20px 0;
+     background-image: linear-gradient(225deg, rgb(210, 44, 78)0%, rgb(238, 56, 78)100%);
+     margin: 100px auto;
+     border-radius: 12px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+
+   }
+
+   .amazing-offers .right-side {
+     width: 166px;
+     height: 300px;
+     padding: 0 20px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: center;
+     align-items: center;
+     gap: 30px;
+   }
+
+   .amazing-offers .right-side a {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 12px;
+   }
+
+
+
+
+   .amazing-offers .left-side {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide:nth-of-type(1) {
+     border-top-right-radius: 8px;
+     border-bottom-right-radius: 8px;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide:nth-of-type {
+     border-top-left-radius: 8px;
+     border-bottom-left-radius: 8px;
+   }
+
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+
+   .amazing-offers .left-side .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+   .off {
+     width: 40px;
+     height: 20px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 20px;
+     font-size: 3px;
+     font-weight: bold;
+   }
+
+
+
+   .opacity {
+     width: 1336px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: burlywood;
+     margin: 100px auto;
+     border-radius: 12px;
+
+   }
+
+   .opacity .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity .svg span {
+     font-size: 30px;
+   }
+
+
+
+
+   .opacity .opacity2 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity .opacity2 .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity .opacity2 .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     opacity: 0.5;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity .opacity2 .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity .opacity2 .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2 .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+   .fore-box {
+     width: 100%;
+     max-width: 1350px;
+     display: flex;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+     margin: 100px auto;
+     padding: 0 10px;
+     box-sizing: border-box;
+   }
+
+   .fore-box .child-hood {
+     flex: 1 1 calc(50% - 10px);
+     max-width: 305px;
+     height: auto;
+   }
+
+   .fore-box .child-hood img {
+     width: 100%;
+     height: auto;
+     object-fit: contain;
+     border-radius: 10px;
+   }
+
+
+   .amazing-offers2 {
+     width: 1336px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: forestgreen;
+     margin: 100px auto;
+     border-radius: 12px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+
+   }
+
+   .amazing-offers2 .right-side {
+     width: 166px;
+     height: 300px;
+     padding: 0 20px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: center;
+     align-items: center;
+     gap: 30px;
+   }
+
+   .amazing-offers2 .right-side a {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 12px;
+   }
+
+
+
+
+   .amazing-offers2 .left-side {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide:nth-of-type(1) {
+     border-top-right-radius: 8px;
+     border-bottom-right-radius: 8px;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide:nth-of-type {
+     border-top-left-radius: 8px;
+     border-bottom-left-radius: 8px;
+   }
+
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+
+   .amazing-offers2 .left-side .swiperayhan .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+   .off {
+     width: 40px;
+     height: 20px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 20px;
+     font-size: 3px;
+     font-weight: bold;
+   }
+
+
+
+
+   .circle111 {
+     width: 350;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 25px;
+     flex-wrap: wrap;
+   }
+
+   .circle111 .child2 {
+     width: 170px;
+     border-radius: 50%;
+     object-fit: cover;
+   }
+
+   .circle111 .child2 img {
+     width: 100%;
+   }
+
+   .circle111 .child2 span {
+     margin-right: 40px;
+   }
+
+
+
+
+
+   .two-box {
+     width: 100%;
+     max-width: 1050px;
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+     margin: 100px auto;
+     padding: 0 10px;
+     box-sizing: border-box;
+   }
+
+   .two-box .child-hood {
+     flex: 1 1 300px;
+     max-width: 535px;
+     height: auto;
+   }
+
+   .two-box .child-hood img {
+     width: 100%;
+     height: auto;
+     object-fit: contain;
+     border-radius: 10px;
+   }
+
+
+
+
+
+
+   .opacity1 {
+     width: 1336px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity1 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity1 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity1 .svg .span2 {
+     display: block;
+   }
+
+   .opacity1 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 870px;
+   }
+
+
+
+
+   .opacity11 .opacity22 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity1 .opacity22 .swiperayhan2 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity22 .swiperayhan2 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+   .opacity11 {
+     width: 1336px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity11 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity11 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity11 .svg .span2 {
+     display: block;
+   }
+
+   .opacity11 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 830px;
+   }
+
+
+
+
+   .opacity11 .opacity222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity11 .opacity222 .swiperayhan22 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity222 .swiperayhan22 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+   .opacity111 {
+     width: 1336px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity111 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity111 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity111 .svg .span2 {
+     display: block;
+   }
+
+   .opacity111 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 820px;
+   }
+
+
+
+
+   .opacity111 .opacity2222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide {
+     height: 288px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide img {
+     width: 100%;
+     height: 114px;
+     object-fit: contain;
+   }
+
+
+   .opacity111 .opacity2222 .swiperayhan222 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2222 .swiperayhan222 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .opacity1111 {
+     width: 1336px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity1111 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity1111 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity1111 .svg .span2 {
+     display: block;
+   }
+
+   .opacity1111 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 220px;
+   }
+
+
+
+
+   .opacity1111 .opacity22222 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide {
+     height: 138px;
+     display: flex;
+     flex-flow: column nowrap;
+     justify-content: space-around;
+     background-color: white;
+     padding: 0 8px 8px 8px;
+     border: 2px solid gray;
+     border-radius: 10px;
+     margin: 10px;
+   }
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide img {
+     width: 100%;
+     height: 74px;
+     object-fit: contain;
+   }
+
+
+   .opacity1111 .opacity22222 .swiperayhan2222 .swiper-slide h2 {
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity22222 .swiperayhan2222 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+
+
+
+
+
+
+
+
+   .opacity12 {
+     width: 1336px;
+     height: fit-content;
+     padding: 20px 0;
+     background-color: white;
+     margin: 100px auto;
+     border-radius: 12px;
+     border: 2px solid gray;
+   }
+
+   .opacity12 .svg img {
+     width: 81px;
+     height: 24px;
+   }
+
+   .opacity12 .svg .span1 {
+     display: inline-block;
+     font-size: 30px;
+   }
+
+   .opacity12 .svg .span2 {
+     display: block;
+   }
+
+   .opacity12 .svg button {
+     display: inline-block;
+     padding: 4px 8px;
+     color: #2b2b2b;
+     border-radius: 8px;
+     background-color: whitesmoke;
+     font-size: 18px;
+     margin-right: 330px;
+   }
+
+
+
+
+   .opacity12 .opacity2221 {
+     width: 90%;
+     height: 100%;
+     display: flex;
+     overflow: hidden;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 {
+     width: 100%;
+     height: 100%;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide {
+     width: 400px;
+     height: auto;
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     background-color: white;
+     gap: 10px;
+     padding: 8px;
+   }
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide img {
+     width: 114px;
+     height: 114px;
+     flex-shrink: 0;
+     object-fit: contain;
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide .ff2 h2 {
+     white-space: normal;
+     flex: 1;
+     min-width: 0;
+     margin: 0;
+     line-height: 1.8;
+     word-break: normal;
+     overflow-wrap: normal;
+     font-size: 14px;
+     color: rgb(66, 66, 66);
+   }
+
+   .opacity2221 .swiperayhan221 .swiper-slide span {
+     font-size: 18px;
+     color: rgb(35, 37, 78);
+   }
+
+
+   .opacity12 .opacity2221 .swiperayhan221 .swiper-slide .ff2 {
+     display: flex;
+     flex: 1 1 0;
+     min-width: 0;
+     white-space: normal;
+     flex-direction: row;
+     gap: 8px;
+     align-items: flex-start;
+   }
+
+
+   .off2 {
+     width: 20px;
+     height: 20px;
+     flex-shrink: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color: #d71920;
+     color: white;
+     border-radius: 50px;
+     font-size: 8px;
+     font-weight: bold;
+   }
+ }
